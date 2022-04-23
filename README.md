@@ -26,3 +26,11 @@ _Predict.py_ can now be run which opens up a pygame window where digits can be d
 #### Demo:
 
 <img src="Demo Animations/demo.gif" width="500">
+
+#### Imported Libraries:
+
+- TensorFlow
+- Keras
+- cv2
+- NumPy
+- Pygame
